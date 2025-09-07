@@ -93,10 +93,10 @@ No Correlation Found: The chi-squared analysis showed no statistically significa
 
 ```
 
- Method	        Silhouette	   Davies-Bouldin	   Calinski-Harabasz
- KMeans	         0.179827	      1.951107	         269.881229
- Hierarchical	   0.179827	      1.951107	         269.881229
- DBSCAN       	 0.175863	      4.298287	         132.919588
+ Method	       | Silhouette	 |  Davies-Bouldin	 |  Calinski-Harabasz
+ KMeans	       |  0.179827	  |    1.951107	     |   269.881229
+ Hierarchical	 |  0.179827	  |    1.951107	     |   269.881229
+ DBSCAN       	|  0.175863	  |    4.298287	     |   132.919588
 
 
 ```
