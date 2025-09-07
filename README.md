@@ -94,7 +94,7 @@ No Correlation Found: The chi-squared analysis showed no statistically significa
 ```
 | Method       | Silhouette | Davies-Bouldin ↓ | Calinski-Harabasz ↑ |
 | ------------ | ---------- | ---------------- | ------------------- |
-| **KMeans**   | **0.1798** | **1.9511**       | **269.88**          |
+| KMeans       | 0.1798     | 1.9511           | 269.88              |
 | Hierarchical | 0.1798     | 1.9511           | 269.88              |
 | DBSCAN       | 0.1759     | 4.2983           | 132.92              |
 
