@@ -92,11 +92,11 @@ No Correlation Found: The chi-squared analysis showed no statistically significa
 ## The performance of the final K-Means model (with k=4 clusters) is as follows:
 
 ```
-Method	       | Silhouette	 |  Davies-Bouldin	 |  Calinski-Harabasz
-KMeans	       |  0.179827	  |    1.951107	     |   269.881229
-Hierarchical	 |  0.179827	  |    1.951107	     |   269.881229
-DBSCAN       	|  0.175863	  |    4.298287	     |   132.919588
-
+| Method       | Silhouette | Davies-Bouldin ↓ | Calinski-Harabasz ↑ |
+| ------------ | ---------- | ---------------- | ------------------- |
+| **KMeans**   | **0.1798** | **1.9511**       | **269.88**          |
+| Hierarchical | 0.1798     | 1.9511           | 269.88              |
+| DBSCAN       | 0.1759     | 4.2983           | 132.92              |
 
 ```
 
